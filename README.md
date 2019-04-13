@@ -14,3 +14,5 @@ Installation
 Simply run
 
 	make
+	
+	Test
